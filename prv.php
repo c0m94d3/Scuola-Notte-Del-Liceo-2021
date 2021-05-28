@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<form action= "">
+<form action= "" method= "POST">
     <img src= "https://liceocuneo.it/wp-content/uploads/LiceoCuneoLogoTrasparente.png" alt= "">
     <h1 style= "text-align:center;">Notte Nazionale del Liceo Classico- Laboratorio di Storia dell'Arte</h1>
     <p  style= "text-align:center;"><b>Questo lavoro è stato realizzato mediante la partecipazione degli alunni delle classi</b></p>
